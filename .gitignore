@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Machine Learning / TensorFlow Artifacts
+models/
+*.keras
+*.h5
+*.pb
+*.json
+*.npz
+
+# macOS specific
+.DS_Store
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
