@@ -1,4 +1,4 @@
-# Text-Classification-Microservice
+# Text Classification Microservice
 
 An end-to-end deep learning project for binary text classification. This project natively trains a TensorFlow/Keras bidirectional LSTM on the IMDB dataset and automatically pipelines the output into a heavily concurrent `FastAPI` inference REST service architecture. 
 
@@ -53,7 +53,7 @@ python infer.py
 
 ---
 
-## 📊 Pipeline Metrics Showcase
+## 📊 Testing Results
 
 Following evaluation on the testing set (10 Epoch limit):
 - **Accuracy**: 83%
