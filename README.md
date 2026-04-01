@@ -1,4 +1,4 @@
-# End-to-End Deep Learning Project for Binary Text Classification
+# Text-Classification-Microservice
 
 An end-to-end deep learning project for binary text classification. This project natively trains a TensorFlow/Keras bidirectional LSTM on the IMDB dataset and automatically pipelines the output into a heavily concurrent `FastAPI` inference REST service architecture. 
 
